@@ -101,7 +101,7 @@ medical-insurance-prediction/
 - **Smoking Status**: Strongest predictor of insurance costs
 - **Age**: Positive correlation with insurance charges
 - **BMI**: Higher BMI associated with increased costs
-- **Model Performance**: Achieved R² score of approximately 0.76
+- **Model Performance**: Achieved test R² score of approximately 0.48
 
 ## 🎨 Visualizations
 
@@ -132,5 +132,6 @@ The project includes comprehensive visualizations:
 - Open source community for excellent Python libraries
 
 ---
+
 
 ⭐ **If you found this project helpful, please give it a star!** ⭐
