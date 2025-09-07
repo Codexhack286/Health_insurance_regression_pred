@@ -102,6 +102,7 @@ medical-insurance-prediction/
 - **Age**: Positive correlation with insurance charges
 - **BMI**: Higher BMI associated with increased costs
 - **Model Performance**: Achieved test R² score of approximately 0.48
+- The model achieved an R² of 0.76 on training data but only 0.48 on test data, indicating overfitting and the limitations of linear regression for highly variable medical cost data
 
 ## 🎨 Visualizations
 
@@ -135,3 +136,4 @@ The project includes comprehensive visualizations:
 
 
 ⭐ **If you found this project helpful, please give it a star!** ⭐
+
