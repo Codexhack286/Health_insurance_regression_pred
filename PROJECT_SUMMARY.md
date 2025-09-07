@@ -15,7 +15,7 @@ This project demonstrates a complete data science workflow for predicting medica
 6. **Sex** - Minimal impact on insurance costs
 
 ### Model Performance:
-- **R² Score**: ~0.76 (explains 76% of variance in insurance costs)
+- **R² Score**: ~0.48 (explains 48% of variance in insurance costs)
 - **Model Type**: Multiple Linear Regression
 - **Data Processing**: Log transformation applied to handle skewed target variable
 
@@ -102,3 +102,4 @@ This project demonstrates a complete data science workflow for predicting medica
 5. **Advanced Visualization**: Interactive dashboards with Plotly
 
 ---
+
